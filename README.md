@@ -1,6 +1,6 @@
 # StableDiffusion_ElonMusk
 
-<div align="center"><img src="https://ibb.co/7kqLnTj" width="498" height="292" /></div>
+<div align="center"><img src="[https://ibb.co/7kqLnTj](https://i.ibb.co/5KPwrzG/00005-3182430458-Close-portrai.png)" width="498" height="292" /></div>
 
 ## About Stable Diffusion
 Stable Diffusion is a machine learning model developed by Stability AI to generate high-quality digital images from natural language descriptions.
