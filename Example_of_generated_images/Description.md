@@ -1,1 +1,1 @@
-## Close portrait of elegant  eln_msk_x person in tailored suit- futurist style, intricate baroque detial, elegant, glowing lights, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski
+## Close portrait of elegant [your_token] person in tailored suit- futurist style, intricate baroque detial, elegant, glowing lights, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski
